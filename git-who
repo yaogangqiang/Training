@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-=======
+git blame -L 5,5 develop foo#@yaogangqiang
 git blame -L 4,6 develop foo#@liqi
->>>>>>> origin/develop
 git blame -L 4,6 develop foo#@tangchang
 git blame -L 5,5 develop foo#@wenhaiwen2
 git blame git-who -L 5,5#@wanghan
