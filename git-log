@@ -2,8 +2,6 @@
 48d2e1d add news
 458183d confict
 737af32 modify foo
-<<<<<<< HEAD
-c32f807721180e69edfc3c935e3afa7895e2912c change git-config
 2c0bac85a09c7ed696819dea6df19a5b4dc31737 add news
 f01f66935ece232afacacab8da7a4360f9cff8cd Modify git-who file
 dffeda95cc9b7a8a30aeff2079448f98ac06870a Add a command that who changed the fifth line of foo on develop branch
@@ -318,10 +316,8 @@ a67cf52d4de72468fe2598cd149cf381370661df add exercise 1
 75a5a89061173e892999e98400e8ef78970849fc add some tips about TODO
 f449664bcbfefd939ce356dd8a3820d1df2d1833 add quick start
 84cd5f7a560473853fe3536cdccdc9f1af9e9d2c initial commit
-=======
 5403e2de2bce54f347573c395538e0e5e6d050b4 git rocks
 79849d0680fde30ba684f58fe55db1ebf804bd49 Merge branch 'develop' of github.com:AdMaster/Training into develop success Conflicts:         foo
 9d0707d3890e492ba27e0b6146b5748529f7f8cd change git clone git@github.com:admaster/git-test.git  to git@github.com:AdMaster/Training.git~
 352a4eada4dc13c2c4e551d2688602f662a70cdb        modified:   foo
 
->>>>>>> origin/develop
